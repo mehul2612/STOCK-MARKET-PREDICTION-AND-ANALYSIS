@@ -1,0 +1,10 @@
+ streamlit  
+ yfinance 
+ pand  
+ numpy 
+ matplotlib 
+ seaborn 
+ plotly  
+ datetime
+ statsmodels 
+ 
